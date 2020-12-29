@@ -1,14 +1,10 @@
-# Project Title
-
-Implementation of flask framework
-
-## Description
+# Flask Portfolio
 
 A portfolio website deployment in flask
 
 ### Installing
 
-pip install flask
+* `pip install flask`
 
 ## Built With
 
